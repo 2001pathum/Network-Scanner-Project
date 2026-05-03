@@ -26,6 +26,10 @@ This is a multi-threaded TCP Port Scanner developed for the Python Programming m
 
 \- \*\*Professional CLI:\*\* Clean command-line interface with customizable port ranges and thread counts.
 
+\- \*\*Protocol Support:\*\* Scan both TCP and UDP ports with accurate service detection.
+
+\- \*\*Timeout Control:\*\*  Adjustable connection timeout values for different network conditions.
+
 
 
 \## Prerequisites
