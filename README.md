@@ -40,13 +40,13 @@ This is a multi-threaded TCP Port Scanner developed for the Python Programming m
 
 \## How to Run
 
-1\. Open your terminal or CMD.
+1\. Open your terminal or command prompt.
 
-2\. Navigate to the project folder.
+2\. Navigate to the project directory.
 
 3\. Run the following command:
 
 &#x20;  ```bash
 
-&#x20;  python scanner.py -t 127.0.0.1/32 -p 1-1024 -w 100
+bashpython scanner.py -t 127.0.0.1/32 -p 1-1024 -w 100
 
